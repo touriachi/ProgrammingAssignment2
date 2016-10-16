@@ -2,6 +2,8 @@
 ## functions do
 
 ## Write a short comment describing this function
+## just a test
+
 
 makeCacheMatrix <- function(x = matrix()) {
 
